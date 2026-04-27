@@ -453,10 +453,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - **Qdrant** - Vector database
 - **Google Gemini** - Embeddings and LLM
 
-## 📧 Contact
-
-Project Link: [https://github.com/Ahmed-Essam-Hammam/AI-Meeting-Assistant](https://github.com/Ahmed-Essam-Hammam/AI-Meeting-Assistant)
-
 ## 🗺️ Roadmap
 
 - [ ] Real-time meeting processing (streaming)
